@@ -7,10 +7,3 @@ author=Peter Van Katwyk
 email=pvankatwyk@gmail.com
 icon=UTerra_icon.ico
 about=The UTerra plugin is designed to streamline the permitting process for long-haul fiber optic installations by analyzing a route's intersections with cities, counties, protected areas (PADUS), and railway crossings. With UTerra, users can easily identify which jurisdictions and special areas a route traverses and compile this information into a permitting report.
-
-Features:
-- **Intersection Analysis**: Automatically identifies intersecting cities, counties, protected areas, and railways along the route.
-- **Permitting Report Generation**: Outputs a detailed Markdown report listing each intersected area with contact and permitting information.
-- **Optional AI Integration**: Users with an OpenAI API key can generate enhanced summaries that include permitting links and contextual information for each intersected jurisdiction or feature.
-
-This tool is ideal for infrastructure planning and environmental compliance, providing a convenient, location-specific overview of permitting requirements in a single, organized report.

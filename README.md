@@ -108,6 +108,7 @@ The optional LLM feature uses OpenAI’s GPT to generate detailed permitting sum
 
 - **OSGeo Environment Issues**: If you encounter issues with installing packages, ensure you are using the OSGeo shell provided by QGIS.
 - **Dependency Conflicts**: QGIS environments can sometimes have specific versions of libraries. Refer to the `requirements.txt` file to check installed versions and resolve any conflicts.
+- **GPT Integration**: If the outputted report does not contain any links or extra information, likely the API key you provided is incorrect. If it is correct, close out the plugin and try again.
 
 ## License
 
