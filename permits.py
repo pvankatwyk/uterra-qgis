@@ -1,4 +1,4 @@
-from classes import CitiesShapefile, CountiesShapefile, PADUSShapefile, RailShapefile, LineKMZ, LineShapefile
+from .classes import CitiesShapefile, CountiesShapefile, PADUSShapefile, RailShapefile, LineKMZ, LineShapefile
 import openai
 import os
 
