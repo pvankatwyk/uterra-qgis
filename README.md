@@ -70,6 +70,9 @@ After installing the dependencies:
 3. Click `Install from ZIP` and select the zipped plugin.
 4. On you plugin bar, select the UTerra plugin (blue box). If not visible, restart QGIS to activate the plugin.
 
+## Shapefile Datasets
+Data used for this plugin can be downloaded at this link: [uterra-qgis-data](https://drive.google.com/drive/folders/1--1GoFPEK6_jHs1Soylp6cJwgD4IcJEl?usp=drive_link). This includes the US Census Beureau TIGER shapefiles for US cities and counties, the USGS PADUS dataset for protected areas, and US Department of Transportation Rail Line shapefiles. While any well-conditioned shapefile would work, all testing was done on these datasets.
+
 ## Usage
 
 
