@@ -1,0 +1,94 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment directories
+venv/
+env/
+.venv/
+.env/
+
+# Python virtual environment files
+*.env
+*.venv
+*.pyenv
+*.mypy_cache/
+*.tox/
+*.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode-specific files
+*.vscode/*
+*__pycache__/*
+.vscode/
+__pycache__/
+*.code-workspace
+
+# Poetry-specific files
+poetry.lock
+
+# Byte-compiled files and logs
+*.log
+*.pot
+*.mo
+*.swp
+*.swo
+*~
+# SQLite database files
+*.sqlite3
+
+# macOS-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
+desktop.ini
+
+# Test coverage and reports
+htmlcov/
+.tox/
+coverage.xml
+*.cover
+.hypothesis/
+.cache/
+nosetests.xml
+coverage/
+*.coverage
+
+# Distribution and build directories
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# PyInstaller directory
+__pyinstaller__/
+
+# Package installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test and coverage reports
+coverage/
+nosetests.xml
+test_*.xml
+.tox/
+.cache/
+
+# mypy
+.mypy_cache/
+
+# Pylint logs
+pylint.log
+
+# Env files (if they store sensitive information)
+.env
+
+# Documentation
+docs/_build/
+site/

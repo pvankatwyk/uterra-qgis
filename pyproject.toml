@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "uterra"
+version = "0.1.0"
+description = ""
+authors = ["Peter Van Katwyk <pvankatwyk@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastkml = "^0.12"
+pygeoif = "<1.0"
+geopandas = "^1.0.1"
+lxml = "^5.3.0"
+openai = "^1.51.2"
+setuptools = "^75.1.0"
+pyqt6 = "^6.7.1"
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
